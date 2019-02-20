@@ -20,13 +20,15 @@ Assets are packed into one png file called 'asset.png' and there is 'asset.json'
 
 
 ## Extra features
-develop mobile version of the game
+develop HTML5 mobile version of the game
 
 
 
 ### Requirements
 You can use any frameworks of your choice for making the game, but that should be HTML5 game.
-Please, commit your project to your github repo (or create github account for yourself if you don't have one).
+
+###  Delivery
+Please, commit your project to your github repo (or create github account for yourself if you don't have one) and let us know.
 
 Good Luck!
 
